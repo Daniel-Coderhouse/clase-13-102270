@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Buzo Canguro Oversize Negro",
+    "price": 45000,
+    "category": "buzos",
+    "stock": 15
+  },
+  {
+    "name": "Remera Básica Algodón Peinado Blanca",
+    "price": 18500,
+    "category": "remeras",
+    "stock": 40
+  },
+  {
+    "name": "Campera Rompevientos Impermeable",
+    "price": 68000,
+    "category": "camperas",
+    "stock": 8
+  },
+  {
+    "name": "Buzo Cuello Redondo Gris Melange",
+    "price": 39000,
+    "category": "buzos",
+    "stock": 22
+  },
+  {
+    "name": "Remera Estampada Vintage",
+    "price": 23000,
+    "category": "remeras",
+    "stock": 30
+  },
+  {
+    "name": "Campera de Jean Clásica Azul",
+    "price": 75000,
+    "category": "camperas",
+    "stock": 12
+  },
+  {
+    "name": "Buzo con Cierre y Capucha Azul Marino",
+    "price": 48500,
+    "category": "buzos",
+    "stock": 10
+  },
+  {
+    "name": "Remera Deportiva Dry-Fit",
+    "price": 21000,
+    "category": "remeras",
+    "stock": 50
+  },
+  {
+    "name": "Campera Puffer Abrigada Oliva",
+    "price": 92000,
+    "category": "camperas",
+    "stock": 5
+  },
+  {
+    "name": "Remera Manga Larga Rayada",
+    "price": 26500,
+    "category": "remeras",
+    "stock": 18
+  }
+]
