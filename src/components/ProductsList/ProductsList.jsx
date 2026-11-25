@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { collection, getDocs } from "firebase/firestore";
 import { db } from "../../firebase/firebaseConfig";
 import styles from "./styles.module.css";
+import { Link } from "react-router";
 
 import CardProduct from "../CardProduct/CardProduct";
 
@@ -35,7 +36,9 @@ const ProductsList = () => {
 
       <div className={styles.grid}>
         {products.map((product) => (
-          <CardProduct key={product.id} data={product} />
+          <Link to={`/detail/${product.id}`}>
+            <CardProduct key={product.id} data={product} />
+          </Link>
         ))}
       </div>
     </div>

@@ -5,7 +5,7 @@ import products from "../../firebase/products.json";
 const SeedProducts = () => {
   const uploadProducts = async () => {
     try {
-      const producstCollection = collection(db, "clothes");
+      const producstCollection = collection(db, "games");
 
       for (const product of products) {
         await addDoc(producstCollection, product);

@@ -1,62 +1,86 @@
 [
   {
-    "name": "Buzo Canguro Oversize Negro",
-    "price": 45000,
-    "category": "buzos",
-    "stock": 15
+    "name": "Cyberpunk 2077",
+    "price": 59900,
+    "category": "rpg",
+    "stock": 14,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Remera Básica Algodón Peinado Blanca",
-    "price": 18500,
-    "category": "remeras",
-    "stock": 40
+    "name": "God of War Ragnarök",
+    "price": 69900,
+    "category": "accion",
+    "stock": 9,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Campera Rompevientos Impermeable",
-    "price": 68000,
-    "category": "camperas",
-    "stock": 8
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "price": 74900,
+    "category": "aventura",
+    "stock": 7,
+    "image": "/images/games/zelda-totk.jpg"
   },
   {
-    "name": "Buzo Cuello Redondo Gris Melange",
-    "price": 39000,
-    "category": "buzos",
-    "stock": 22
+    "name": "Elden Ring",
+    "price": 64900,
+    "category": "rpg",
+    "stock": 18,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Remera Estampada Vintage",
-    "price": 23000,
-    "category": "remeras",
-    "stock": 30
+    "name": "Resident Evil 4 Remake",
+    "price": 49900,
+    "category": "accion",
+    "stock": 22,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Campera de Jean Clásica Azul",
-    "price": 75000,
-    "category": "camperas",
-    "stock": 12
+    "name": "Red Dead Redemption 2",
+    "price": 54900,
+    "category": "aventura",
+    "stock": 16,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Buzo con Cierre y Capucha Azul Marino",
-    "price": 48500,
-    "category": "buzos",
-    "stock": 10
+    "name": "Baldur's Gate 3",
+    "price": 62900,
+    "category": "rpg",
+    "stock": 11,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Remera Deportiva Dry-Fit",
-    "price": 21000,
-    "category": "remeras",
-    "stock": 50
+    "name": "DOOM Eternal",
+    "price": 34900,
+    "category": "accion",
+    "stock": 25,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Campera Puffer Abrigada Oliva",
-    "price": 92000,
-    "category": "camperas",
-    "stock": 5
+    "name": "Hollow Knight",
+    "price": 19500,
+    "category": "aventura",
+    "stock": 35,
+    "image": "https://steamstatic.com"
   },
   {
-    "name": "Remera Manga Larga Rayada",
-    "price": 26500,
-    "category": "remeras",
-    "stock": 18
+    "name": "The Witcher 3: Wild Hunt",
+    "price": 39900,
+    "category": "rpg",
+    "stock": 20,
+    "image": "https://steamstatic.com"
+  },
+  {
+    "name": "Devil May Cry 5",
+    "price": 32900,
+    "category": "accion",
+    "stock": 19,
+    "image": "https://steamstatic.com"
+  },
+  {
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "price": 47900,
+    "category": "aventura",
+    "stock": 12,
+    "image": "https://steamstatic.com"
   }
 ]
